@@ -8,7 +8,7 @@
 * Загрузите этот установщик и запустите его:
 
   ```shell
-  wget https://raw.githubusercontent.com/kolesnikof/debian-kiosk-installer/main/kiosk-installer.sh; chmod +x kiosk-installer.sh; ./kiosk-installer.sh
+  wget https://raw.githubusercontent.com/kolesnikof/kiosk/main/kiosk-installer.sh; chmod +x kiosk-installer.sh; ./kiosk-installer.sh
   ```
 
 ## Описание работы
